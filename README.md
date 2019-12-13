@@ -5,3 +5,5 @@ Notebook installed.
 
 1. AppData.ipynb: The aim of this project is to analyse PlayStore and iOS mobile apps data and extract useful information to recommend
 a category/genre for further app development in a company.
+
+**Work in progress -- other projects coming up soon**
